@@ -1,6 +1,4 @@
--- Revised by [Your Name] based on AnthonyIsntHere's original script
--- Activates fling on clicked players
-
+-- skidded with deepseek to make click fling so skibidi
 local Players = game:GetService("Players")
 local Player = Players.LocalPlayer
 local mouse = Player:GetMouse()
